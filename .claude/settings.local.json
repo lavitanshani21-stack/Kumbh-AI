@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(claude-api)",
+      "Skill(claude-api:*)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(cd \"/Users/lavitanshani/Desktop/Kumbh AI\" && echo \"--- repo files ---\" && ls -la && echo \"--- any CSVs anywhere nearby? ---\" && find . -iname \"*.csv\" 2>/dev/null; echo \"--- check Desktop + Downloads for the dataset ---\" && find ~/Desktop ~/Downloads -iname \"*Missing_Persons*\" -o -iname \"*CCTV_Locations*\" -o -iname \"*Zone_Boundaries*\" 2>/dev/null | head -20)",
+      "Read(//Users/lavitanshani/Desktop/**)",
+      "Bash(node --input-type=module -e ' *)",
+      "Bash(gh auth *)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git config *)"
+    ]
+  }
+}

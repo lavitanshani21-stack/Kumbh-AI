@@ -1,0 +1,86 @@
+location_name,category,longitude,latitude
+Traffic Point 1,Traffic choke point,73.53302,19.94241
+Traffic Point 2,Traffic choke point,73.765668,19.996968
+Traffic Point 3,Traffic choke point,73.786141,20.017217
+Traffic Point 4,Traffic choke point,73.809052,19.98035
+Traffic Point 5,Traffic choke point,73.786497,19.996888
+Traffic Point 6,Traffic choke point,73.786943,19.993683
+Traffic Point 7,Traffic choke point,73.777629,19.999132
+Traffic Point 8,Traffic choke point,73.552022,19.939802
+Traffic Point 9,Traffic choke point,73.553123,19.930785
+Traffic Point 10,Traffic choke point,73.547933,19.91811
+Traffic Point 11,Traffic choke point,73.773397,20.015302
+Traffic Point 12,Traffic choke point,73.809575,20.010759
+Traffic Point 13,Traffic choke point,73.549374,19.95089
+Traffic Point 14,Traffic choke point,73.810264,19.986689
+Traffic Point 15,Traffic choke point,73.520984,19.932137
+Traffic Point 16,Traffic choke point,73.775415,20.010984
+Traffic Point 17,Traffic choke point,73.523119,19.936691
+Traffic Point 18,Traffic choke point,73.5405,19.947582
+Traffic Point 19,Traffic choke point,73.548071,19.926055
+Traffic Point 20,Traffic choke point,73.791668,20.016717
+Traffic Point 21,Traffic choke point,73.776982,19.998354
+Traffic Point 22,Traffic choke point,73.772803,20.003598
+Traffic Point 23,Traffic choke point,73.781762,20.000774
+Traffic Point 24,Traffic choke point,73.774587,19.981876
+Traffic Point 25,Traffic choke point,73.764367,19.99752
+Traffic Point 26,Traffic choke point,73.529542,19.944249
+No-vehicle Point 27,No-vehicle pressure zone,73.766575,19.993614
+No-vehicle Point 28,No-vehicle pressure zone,73.782895,20.013693
+No-vehicle Point 29,No-vehicle pressure zone,73.779684,19.999242
+Transfer Point 30,Transfer node,73.773915,19.98032
+Transfer Point 31,Transfer node,73.526818,19.931872
+Transfer Point 32,Transfer node,73.525259,19.924182
+Transfer Point 33,Transfer node,73.536223,19.944748
+Transfer Point 34,Transfer node,73.766078,20.009903
+Transfer Point 35,Transfer node,73.764325,20.015229
+Transfer Point 36,Transfer node,73.548122,19.938251
+Transfer Point 37,Transfer node,73.781075,20.00574
+Transfer Point 38,Transfer node,73.767939,20.014313
+Transfer Point 39,Transfer node,73.518297,19.932484
+Transfer Point 40,Transfer node,73.774977,19.989538
+Parking Point 41,Parking,73.518268,19.942942
+Parking Point 42,Parking,73.779246,19.997796
+Parking Point 43,Parking,73.537698,19.920821
+Parking Point 44,Parking,73.802596,20.017781
+Parking Point 45,Parking,73.777616,20.001076
+Parking Point 46,Parking,73.781291,19.981006
+Parking Point 47,Parking,73.802116,19.979366
+Parking Point 48,Parking,73.767928,19.995271
+Parking Point 49,Parking,73.80903,19.992155
+Parking Point 50,Parking,73.801361,19.994318
+Parking Point 51,Parking,73.550906,19.921542
+Parking Point 52,Parking,73.533939,19.92511
+Parking Point 53,Parking,73.767424,19.996125
+Parking Point 54,Parking,73.514875,19.947356
+Parking Point 55,Parking,73.526734,19.940667
+Parking Point 56,Parking,73.520776,19.95082
+Parking Point 57,Parking,73.518284,19.945343
+Parking Point 58,Parking,73.79429,20.002866
+Parking Point 59,Parking,73.796451,20.014246
+Parking Point 60,Parking,73.774495,19.988268
+Parking Point 61,Parking,73.521726,19.921313
+Parking Point 62,Parking,73.774407,19.98793
+Parking Point 63,Parking,73.795233,20.001135
+Parking Point 64,Parking,73.506703,19.916308
+Parking Point 65,Parking,73.514649,19.948446
+Parking Point 66,Parking,73.515623,19.934453
+Parking Point 67,Parking,73.802912,20.015442
+Parking Point 68,Parking,73.800487,19.980957
+Parking Point 69,Parking,73.764631,20.002355
+Parking Point 70,Parking,73.777086,19.988131
+Outer Point 71,Outer parking,73.507184,19.92988
+Outer Point 72,Outer parking,73.800833,20.00731
+Outer Point 73,Outer parking,73.802077,19.981619
+Outer Point 74,Outer parking,73.523698,19.938456
+Outer Point 75,Outer parking,73.515814,19.925578
+Outer Point 76,Outer parking,73.768464,19.990145
+Outer Point 77,Outer parking,73.803242,20.013873
+Outer Point 78,Outer parking,73.514586,19.930397
+Outer Point 79,Outer parking,73.799646,19.98678
+Outer Point 80,Outer parking,73.79315,20.012613
+Parking Point 81,Parking belt,73.551267,19.929802
+Parking Point 82,Parking belt,73.787399,19.991354
+Parking Point 83,Parking belt,73.782485,19.981203
+Parking Point 84,Parking belt,73.802361,20.016534
+Parking Point 85,Parking belt,73.52318,19.934342
